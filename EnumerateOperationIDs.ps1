@@ -1,4 +1,8 @@
-﻿# Define the list of keywords to search for
+﻿#Created By Benjamin Medina
+#benjamin_medina@colpal.com
+
+
+# Define the list of keywords to search for
 $keywords = "USMT"
 
 # Search Active Directory for enabled users whose names contain the keywords
